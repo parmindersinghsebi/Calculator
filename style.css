@@ -1,0 +1,38 @@
+body{
+    background-image: url(multi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    margin: auto;
+    margin-top: 10px;
+}
+.head{ 
+    width: fit-content;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: inline;
+}
+input{
+    border-radius: 10px;
+    font-size: 32px;
+    border: 2px solid #232f23;
+    width: 75%;
+}
+button{
+    font-size: 27px;
+    border-radius: 10px;
+    background-color: snow;
+    width: 82px;
+    height: 63px;
+}
+.Calculator{
+    border: 5px solid black;
+    padding: 15px;
+    border-radius: 12px;
+    display: inline-block;
+}
